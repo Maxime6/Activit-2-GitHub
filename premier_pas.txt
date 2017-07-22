@@ -1,3 +1,5 @@
 1ère approche du terminal
 Après les 1ères parties du cours, je comprends le fonctionnement et l'utilité indispensable des Commit et de Git et GitHub
 Reste à se familiariser avec les commandes de la console : il faut pratiquer ! :)
+
+(les commandes de base deviennent familières)
