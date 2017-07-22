@@ -2,3 +2,9 @@
 
 Je comprends de mieux en mieux l'ordre, les commandes, et les fonctionnalités de la console et de git et github =D
 Je vais pouvoir me servir de ce cours et de cette Activité pour réaliser le Projet 2 du Parcours "Développeur d'application - Python" !
+
+2 - Informations :
+
+Je fais des erreurs quant à l'ordre des commandes mais cela me permet de mieux comprendre leur utilisations :)
+J'arrive à faire des modification depuis la machine locale et/ou GitHub et à les récupérer ou les envoyer sur GitHub
+Etant completement débutant, je suis très enthousiaste pour la suite !!
